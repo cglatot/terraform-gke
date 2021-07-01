@@ -5,7 +5,7 @@ variable "gke_cluster_name" {
 
 variable "project_id" {
   description   = "Project ID to create the cluster in"
-  default       = "enginer-starting-241808"
+  default       = "feisty-outrider-318513"
 }
 
 variable "region" {
