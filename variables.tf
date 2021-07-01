@@ -20,5 +20,5 @@ variable "initial_node_count" {
 
 variable "machine_type" {
   description   = "Instance type to use"
-  default       = "f1-micro"
+  default       = "n1-standard-1"
 }
